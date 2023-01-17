@@ -9,6 +9,7 @@ print(123 + 345)
 
 #float
 print(123.456) #this is a float because it has a decimal point
+print(round(3 /4, 2)) #round to 2 secimals 
 
 #Boolean
 True
