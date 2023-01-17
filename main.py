@@ -14,3 +14,10 @@ print(round(3 /4, 2)) #round to 2 secimals
 #Boolean
 True
 False
+
+#f-string
+score = 0
+isWinning = True
+height = 1.34
+
+print(f"Your score is {score} and your height is {height}, your winning is :  {isWinning}")
